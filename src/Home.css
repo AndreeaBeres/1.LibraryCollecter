@@ -1,0 +1,47 @@
+/* Home.css - Styles for the Home Page */
+.image-container {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .shrink-image {
+    width: 80%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-right {
+    position: absolute;
+    top: 80px;
+    right: 10px;
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .centered-text {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .banner {
+    background-image: url('https://i.etsystatic.com/23719212/r/il/fb0389/2660290993/il_1140xN.2660290993_tiza.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .content {
+    margin-left: 270px;
+    padding: 20px;
+  }
+  
